@@ -1,2 +1,2 @@
 # TCP-reset-attack-PoC
-A PoC that proves thw TCP reset attack.
+A PoC that proves the TCP reset attack.
