@@ -24,4 +24,4 @@ connection.
 python script.py -S 192.168.0.40 -s 23 -D 192.168.0.39 -d 50638 -a 2620146587 -q 1393205321
 
 
-Article at: https://www.overleaf.com/read/cdsdbgcmkhvg
+Full article at: https://www.overleaf.com/read/cdsdbgcmkhvg
